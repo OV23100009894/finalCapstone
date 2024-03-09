@@ -1,0 +1,10 @@
+Total number of users: 2
+Total number of tasks: 6
+To user Admin has been assigned 17 % of tasks
+Admin has completed 0%
+Admin has uncompleted 100%
+Admin has been overdue 100% of tasks
+To user Oleg has been assigned 83 % of tasks
+Oleg has completed 40%
+Oleg has uncompleted 60%
+Oleg has been overdue 60% of tasks

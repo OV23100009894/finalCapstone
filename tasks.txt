@@ -1,0 +1,6 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+oleg;task 1a;Create functions: reg_user, add_task, view_all and view_mine;2024-02-10;2024-02-10;Yes
+oleg;task 1b;Modify reg_user function according to the task instructions;2024-02-10;2024-02-10;Yes
+oleg;task 1c;Add more functionality to 'vm';2024-02-11;2024-02-10;No
+oleg;task 1d;Add menu option to generate reports;2024-02-11;2024-02-10;No
+oleg;task 1e;Modify menu option to display statistics to the admin;2024-02-12;2024-02-10;No
