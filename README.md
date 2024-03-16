@@ -1,4 +1,4 @@
-### A task management system.
+# A task management system.
 ## Table of Contents
 
 1. [Introduction](#introduction)
