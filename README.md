@@ -74,6 +74,7 @@ This project was created by the following individuals:
     The second author who modified the code and added more functinalities.
 ## Screenshot  
 After logging the code displays Menu with options
+
 ![image](https://github.com/OV23100009894/finalCapstone/assets/154207040/cda223cb-7dd9-4fb7-877d-324400f86e28)
 
 
