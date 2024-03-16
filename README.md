@@ -52,16 +52,16 @@ Running Python code can be done in several ways depending on your specific needs
     You can run Python code interactively using a Python interpreter. Open your command-line interface (Terminal on macOS/Linux or Command Prompt on Windows), navigate to the directory containing your Python file (if necessary), and then type python followed by the name of your Python file:
 This will execute the Python code in the specified file.
 
-####Using an Integrated Development Environment (IDE):
+#### Using an Integrated Development Environment (IDE):
 IDEs like PyCharm, Visual Studio Code, and Atom provide a more feature-rich environment for writing and running Python code. You can open your Python file in the IDE, then use the built-in tools to run your code. Typically, there's a "Run" button or a keyboard shortcut (e.g., F5) to execute the code.
 
-####Using Online Python Interpreters:
+#### Using Online Python Interpreters:
 If you don't have Python installed on your local machine, or if you want to quickly test some code, you can use online Python interpreters like Repl.it, PythonAnywhere, or Google Colab. These platforms allow you to write and execute Python code directly in your web browser without needing to install anything locally.
 
-####Using Jupyter Notebooks:
+#### Using Jupyter Notebooks:
 Jupyter Notebooks are an interactive computing environment that allows you to create and share documents containing live code, equations, visualizations, and narrative text. You can run Python code in Jupyter Notebooks cell-by-cell, making it easy to experiment and iterate on your code.
 
-####Using Python Shell (Interactive Mode):
+#### Using Python Shell (Interactive Mode):
 You can also run Python code interactively in a Python shell by simply typing python in your command-line interface without specifying a file:
 This will open a Python shell where you can type and execute Python commands one at a time.
 
