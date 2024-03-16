@@ -26,23 +26,23 @@ Overall, this project serves as a practical exercise in code refactoring, demons
 ## Installation
 To install Python on your computer, follow these steps:
 
-*#### Download Python Installer:
+#### Download Python Installer:
     Go to the official Python website at https://www.python.org/. On the homepage, you'll find a "Downloads" section. Click on it to navigate to the downloads page.
 
-*#### Choose Python Version:
+#### Choose Python Version:
     On the downloads page, you'll see different versions of Python available for download. Typically, you'll want to download the latest stable version. At the time of             writing, it's Python 3.x. Python 2.x is no longer supported and should not be used for new projects.
-*#### Select Operating System:    Click on the appropriate link for your operating system. Python is available for Windows, macOS, and various Linux distributions.
+#### Select Operating System:    Click on the appropriate link for your operating system. Python is available for Windows, macOS, and various Linux distributions.
 
-*#### Download Installer:
+#### Download Installer:
     Once you've selected your operating system, you'll be directed to the download page for that platform. Click on the download link to start downloading the Python installer.
 
-*#### Run Installer:
+#### Run Installer:
     Once the installer is downloaded, locate the downloaded file and run it. Follow the instructions in the installation wizard to install Python on your computer.
 
-*#### Customize Installation (Optional):
+#### Customize Installation (Optional):
     During the installation process, you may have the option to customize the installation settings. You can choose the installation directory, whether to add Python to the        system PATH (recommended), and which optional features to include.
 
-*#### Verify Installation:
+#### Verify Installation:
     After the installation is complete, open a command-line interface (Terminal on macOS/Linux or Command Prompt on Windows) and type python --version to verify that Python is installed correctly. You should see the installed Python version printed to the console.
 
 That's it! Python is now installed on your computer, and you can start writing and running Python code. You can also install additional packages using pip, Python's package manager, to extend Python's functionality as needed.
