@@ -5,7 +5,6 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 
 ## Introduction. 
@@ -68,9 +67,11 @@ This will open a Python shell where you can type and execute Python commands one
 
 Choose the method that best suits your needs and environment. Whether you're executing a single Python script, working on a larger project in an IDE, or experimenting with code in an interactive environment, Python provides flexible options for running your code.
 ## Contributing
-...
-## License
-...
+This project was created by the following individuals:
+#### 1. Hyperion Development staff:
+    This code was written as a hands-on exercise for learners to practice their skills and demonstrate their understanding of the course content.
+#### 2. Oleg Volosyanko:
+    The second author who modified the code and added more functinalities.
 After logging the code displays Menu with options
 ![image](https://github.com/OV23100009894/finalCapstone/assets/154207040/cda223cb-7dd9-4fb7-877d-324400f86e28)
 
